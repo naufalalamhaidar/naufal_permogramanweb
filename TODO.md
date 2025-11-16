@@ -1,0 +1,2 @@
+- [x] Build the Flutter web application using `flutter build web`
+- [x] Open the built web app in Chrome using browser_action
